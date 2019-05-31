@@ -2,6 +2,15 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="D:/Software/selenium server/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Software/Log4j/log4j.jar/log4j.jar"/>
+	<classpathentry kind="lib" path="D:/Software/Log4j/jar_files (1)/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Software/Log4j/jar_files (1)/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="D:/Software/Log4j/jar_files (1)/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/Software/Log4j/jar_files (1)/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/Software/Log4j/jar_files (1)/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Software/Log4j/jar_files (1)/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Software/Log4j/jar_files (1)/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="D:/Software/JXL/jar_files (2)/jxl-2.6.12.1.jar"/>
+	<classpathentry kind="lib" path="D:/Software/selenium server/New Selenium Server/selenium-server-standalone-3.141.59.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
